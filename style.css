@@ -1,0 +1,90 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body and Overall Layout */
+
+header, section, footer {
+    padding: 20px;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    color: black;
+}
+
+
+/* About Section */
+#about {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#about img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+#about p {
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+/* Skills Section */
+#skills {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+#skills ul li {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+/* Portfolio Section */
+ body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h2 {
+            text-align: left;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            vertical-align: top;
+            text-align: left;
+        }
+        th {
+            font-size: 18px;
+            text-align: left;
+        }
+        td img {
+            width: 250px;
+            height: auto;
+            display: block;
+        }
+        .contact {
+            margin-top: 30px;
+        }
+        input, textarea {
+            margin: 5px;
+            padding: 5px;
+        }
+
